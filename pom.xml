@@ -24,7 +24,7 @@
 		<java.version>11</java.version>
 <sonar.projectKey>Rolooo_finalproduct</sonar.projectKey>
 
-<sonar.organization>finalproduct</sonar.organization>
+<sonar.organization>finalorder</sonar.organization>
 
 <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
